@@ -1,2 +1,43 @@
-# token-list
-Tron tokens to be listed in https://tronscan.org/#/data/stats/tvc.
+# Adding new token
+The JSON schema for the tokens includes: address, name, decimals, symbol, logoURI, official homepage, CoinMarketCap link, existing Markets.
+
+Follow the steps below to add a new token：
+1) Fork this repo.
+2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
+```
+{
+      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+      "symbol": "WIN",
+      "name": "WINkLink",
+      "decimals": 6,
+      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
+      "homepage": "https://winklink.org/",
+      "CoinMarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "existingMarkets": [
+          {
+              "source": "Binance",
+              "pairs": [
+                  "WIN/USDT",
+                  "WIN/BUSD",
+                  "WIN/BNB",
+                  "WIN/USDC"
+              ]
+          },
+          {
+              "source": "Poloniex",
+              "pairs": [
+                  "WIN/USDT"
+              ]
+          },
+          {
+              "source": "KuCoin",
+              "pairs": [
+                  "WIN/USDT"
+              ]
+          }
+    ]
+}
+```
+3) Submit PR with the changed JSON file.
+
+
