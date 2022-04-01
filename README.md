@@ -12,7 +12,7 @@ Follow the steps below to add a new token：
       "decimals": 6,
       "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
       "homepage": "https://winklink.org/",
-      "CoinMarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
       "existingMarkets": [
           {
               "source": "Binance",
@@ -43,7 +43,7 @@ Follow the steps below to add a new token：
 * `name`[Required]: your token name.
 * `logoURI`[Required]: the logo URI of your token.
 * `homepage`[Required]: the home page of your token.
-* `CoinMarketCapLink`[Optional]: the coinmarketcap link for your token.
+* `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
 * `existingMarkets`[Required]: where to trade with your token.
 3) Submit PR with the changed JSON file.
 
