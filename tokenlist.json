@@ -1,3 +1,26 @@
 [
-    
+    {
+        "address": "TVGiaML3hJE7sv9NEEVjqLbF5DcXJgHSfy",
+        "symbol": "SFI",
+        "name": "STRX Finance",
+        "decimals": 6,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22874.png",
+        "homepage": "https://strx.finance/",
+        "MarketCapLink": "https://coinmarketcap.com/currencies/strx-finance/",
+        "existingMarkets": [
+            {
+                "source": "SunSwap",
+                "pairs": [
+                    "SFI/USDT",
+                    "SFI/TRX"
+                ]
+            },
+            {
+                "source": "JustMoney",
+                "pairs": [
+                    "SFI/TRX"
+                ]
+            }
+        ]
+    }   
 ]
