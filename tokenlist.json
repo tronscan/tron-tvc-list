@@ -1,3 +1,42 @@
-[
+{
+      "address": "TKCur8QUacoMU2PRXbNifw3WeCvwcdgX5p",
+      "symbol": "POX",
+      "name": "POLLUX COIN",
+      "decimals": 8,
+      "logoURI": "https://www.polluxdefi.com/tmpl/common/logo.png",
+      "homepage": "https://polluxcoin.info/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/pollux-coin/",
+      "existingMarkets": [
+          {
+              "source": "Binance",
+              "pairs": [
+                  "WIN/USDT",
+                  "WIN/BUSD",
+                  "WIN/BNB",
+                  "WIN/USDC"
+                  "POX/USDT"
+              ]
+          },
+          {
+              "source": "Poloniex",
+              "pairs": [
+                  "WIN/USDT"
+              ]
+          },
+          {
+              "source": "KuCoin",
+              "pairs": [
+                  "WIN/USDT"
+           
+              ]
+          },
+          {
+              "source": "LBank",
+              "pairs": [
+                  "POX/USDT"
+           
+              ]
+          }
+    ]
+}
     
-]
