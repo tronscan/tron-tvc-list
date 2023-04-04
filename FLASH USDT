@@ -1,0 +1,32 @@
+
+     "address": "TZ9SEBmaPrKtA3eUVpsoJzoJEnUDqXYshq",
+      "symbol": "FUSDT",
+      "name": "FLASH USDT",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=024
+      "homepage": "https://tron.network/usdt",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/tether/",
+      "existingMarkets": [
+          {
+              "source": "Binance",
+              "pairs": [
+                  "USDT/BTC",
+                  "USDT/BUSD",
+                  "USDT/BNB",
+                  "USDT/USDC"
+              ]
+          },
+          {
+              "source": "Poloniex",
+              "pairs": [
+                  "USDT/BTC"
+              ]
+          },
+          {
+              "source": "KuCoin",
+              "pairs": [
+                  "USDT/BTC"
+              ]
+          }
+    ]
+}
