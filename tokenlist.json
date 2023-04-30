@@ -1,3 +1,29 @@
 [
-    
+    {
+      "address": "TUsmP4tY54MB7HCo2D6WA5NaYrZDUtEUna",
+      "symbol": "X7C",
+      "name": "X7 Coin",
+      "decimals": 14,
+      "logoURI": "https://static.tronscan.org/production/upload/logo/new/TUsmP4tY54MB7HCo2D6WA5NaYrZDUtEUna.png",
+      "homepage": "https://x7exchange.com",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/x7-coin/",
+      "existingMarkets": [
+          {
+              "source": "X7 Exchange",
+              "pairs": [
+                  "X7C/BRL",
+                  "X7C/USDT",
+                  "X7C/TRX"
+              ]
+          },
+          {
+              "source": "Txbit",
+              "pairs": [
+                  "X7C/USDT",
+                  "X7C/BTC",
+                  "X7C/ETH"
+              ]
+          }
+    ]
+}
 ]
