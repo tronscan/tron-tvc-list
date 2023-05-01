@@ -9,7 +9,7 @@ At minimum each entry should have
 - Token Name:
 - Token Symbol:
 - Token Decimal:
-- Logo URI: 
+- Logo URI:
 - Link to the official homepage of token:
-- MarketCap Link if available (https://coinmarketcap.com/currencies/#TOKEN or https://www.coingecko.com/en/coins/#TOKEN):
-- Existing Markets (where to trade): 
+- MarketCap Link if available (<https://coinmarketcap.com/currencies/#TOKEN> or <https://www.coingecko.com/en/coins/#TOKEN>):
+- Existing Markets (where to trade):
