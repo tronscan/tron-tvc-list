@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "gabrielgrinberg.auto-run-command"
+        "gabrielgrinberg.auto-run-command",
+        "formulahendry.code-runner"
     ]
 }
