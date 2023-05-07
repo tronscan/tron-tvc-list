@@ -1,3 +1,19 @@
 [
-    
+    {
+		"address": "TFGLzjjVaDM3yggid7vafxfJNxexpWMmba",
+		"symbol": "MUFU",
+		"name": "Mutual Funds",
+		"decimals": 4,
+		"logoURI": "https://static.tronscan.org/production/upload/logo/new/TFGLzjjVaDM3yggid7vafxfJNxexpWMmba.png?t=1680589360034",
+		"homepage": "https://umex.vip",
+		"MarketCapLink": "https://coinmarketcap.com/currencies/mufu/",
+		"existingMarkets": [
+			{
+				"source": "SunSwap",
+				"pairs": [
+					"MUFU/USDT"
+				]
+			}
+		]
+	}
 ]
