@@ -1,3 +1,10 @@
-[
-    
-]
+{
+      "address": "TFW8KGfparmAEsSE9BTg1bwWVs7Uody7bn",
+      "symbol": "VNDT",
+      "name": "VNDT Token",
+      "decimals": 18,
+      "logoURI": "https://prod.exchange-liquidity-pool.vcex.xyz/tokenIcons/VNDT.png",
+      "homepage": "https://prod.exchange-liquidity-pool.vcex.xyz/",
+      "MarketCapLink": "",
+      "existingMarkets": []
+}
