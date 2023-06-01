@@ -1,3 +1,17 @@
-[
-    
-]
+{
+      "address": "TAoA331n3iKDkR62kAZ4H2n3vNL7y3d8x9",
+      "symbol": "BCN",
+      "name": "Bem Chain",
+      "decimals": 6,
+      "logoURI": "https://bcntoken.com/bcnlogo.png",
+      "homepage": "https://bcntoken.com/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/bemchain/",
+      "existingMarkets": [
+          {
+              "source": "SunSwap V2",
+              "pairs": [
+                  "BCN/TRX",
+              ]
+          }
+    ]
+}
