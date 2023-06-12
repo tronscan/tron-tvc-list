@@ -1,3 +1,17 @@
-[
-    
-]
+{
+    "address": "TXz8JPeNUFcHzw5tG2CVBMy7tLM6FdtCuT",
+    "symbol": "Huobi 1st Space",
+    "name": "Huobi 1st Space Club",
+    "decimals": 6,
+    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/9f36fccc-89df-46b4-8174-8e431e580ddb.gif",
+    "homepage": "https://www.huobi.com/",
+    "existingMarkets": [
+        {
+            "source": "ApeNFT",
+            "pairs": [
+                "Huobi 1st Space/USDT",
+                "Huobi 1st Space/TRX"
+            ]
+        }
+  ]
+}
