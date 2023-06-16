@@ -6,33 +6,20 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
+      "address": "TUhpeUhusNJayQJCYeqiF1NZs7beFLzVdd",
+      "symbol": "899uk.com ",
+      "name": "899uk ",
       "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "logoURI": "https://static.tronscan.org/production/upload/logo/new/TUhpeUhusNJayQJCYeqiF1NZs7beFLzVdd.png?t=1685608064453",
+      "homepage": "https://tronscan.org/#/token20/TUhpeUhusNJayQJCYeqiF1NZs7beFLzVdd",
       "existingMarkets": [
           {
-              "source": "Binance",
+              "source": "TRON",
               "pairs": [
-                  "WIN/USDT",
-                  "WIN/BUSD",
-                  "WIN/BNB",
-                  "WIN/USDC"
-              ]
-          },
-          {
-              "source": "Poloniex",
-              "pairs": [
-                  "WIN/USDT"
-              ]
-          },
-          {
-              "source": "KuCoin",
-              "pairs": [
-                  "WIN/USDT"
+                  "899uk.com/USDT",
+                  "899uk.com/BUSD",
+                  "899uk.com/BNB",
+                  "899uk.com/USDC"
               ]
           }
     ]
