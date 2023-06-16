@@ -18,7 +18,7 @@ Follow the steps below to add a new token：
               "pairs": [
                   "899uk.com/USDT",
                   "899uk.com/BUSD",
-                  "899uk.com/BNB",
+                  "899uk.com/TRX",
                   "899uk.com/USDC"
               ]
           }
