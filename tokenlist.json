@@ -1,3 +1,19 @@
-[
-    
-]
+{
+      "address": "TUhpeUhusNJayQJCYeqiF1NZs7beFLzVdd",
+      "symbol": "899uk.com ",
+      "name": "899uk ",
+      "decimals": 6,
+      "logoURI": "https://static.tronscan.org/production/upload/logo/new/TUhpeUhusNJayQJCYeqiF1NZs7beFLzVdd.png?t=1685608064453",
+      "homepage": "https://tronscan.org/#/token20/TUhpeUhusNJayQJCYeqiF1NZs7beFLzVdd",
+      "existingMarkets": [
+          {
+              "source": "TRON",
+              "pairs": [
+                  "899uk.com/USDT",
+                  "899uk.com/BUSD",
+                  "899uk.com/BNB",
+                  "899uk.com/USDC"
+              ]
+          }
+    ]
+}
