@@ -1,3 +1,17 @@
-[
-    
-]
+{
+      "address": "TMwYk8EfmCfAQ7Capz1M9D5MeDViAPs9YB",
+      "symbol": "899uk.com",
+      "name": "899uk",
+      "decimals": 6,
+      "logoURI": "https://static.tronscan.org/production/upload/logo/new/TMwYk8EfmCfAQ7Capz1M9D5MeDViAPs9YB.png?t=1685376602868",
+      "homepage": "https://tronscan.org/#/token20/TMwYk8EfmCfAQ7Capz1M9D5MeDViAPs9YB",
+      "existingMarkets": [
+          {
+              "source": "TRON",
+              "pairs": [
+                  "899uk.com/USDT",
+                  "899uk.com/TRX"
+              ]
+          }
+    ]
+}
