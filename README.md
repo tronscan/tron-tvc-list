@@ -6,33 +6,21 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
-      "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "address": "TJjwnzrBQFtjyumQr5mwRSRsp9hTHUfzLs",
+      "symbol": "RGA",
+      "name": "RGAToken",
+      "decimals": 9,
+      "logoURI": "https://ibb.co/m6rSwMF",
+      "homepage": "https://gotechims.wixsite.com/rgatoken",
+      "MarketCapLink": " ",
       "existingMarkets": [
           {
-              "source": "Binance",
+              "source": "SunSwap",
               "pairs": [
-                  "WIN/USDT",
-                  "WIN/BUSD",
-                  "WIN/BNB",
-                  "WIN/USDC"
+                  "RGA/TRX",
+                   
               ]
-          },
-          {
-              "source": "Poloniex",
-              "pairs": [
-                  "WIN/USDT"
-              ]
-          },
-          {
-              "source": "KuCoin",
-              "pairs": [
-                  "WIN/USDT"
+           
               ]
           }
     ]
