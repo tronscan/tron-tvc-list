@@ -1,0 +1,68 @@
+{
+      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+      "symbol": "WIN",
+      "name": "WINkLink",
+      "decimals": 6,
+      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
+      "homepage": "https://tron.network/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "existingMarkets": [
+          {
+              "source": "Binance",
+              "pairs": [
+                  "WIN/USDT",
+                  "WIN/BUSD",
+                  "WIN/BNB",
+                  "WIN/USDC"
+              ]
+          },
+          {
+              "source": "Poloniex",
+              "pairs": [
+                  "WIN/USDT"
+              ]
+          },
+          {
+              "source": "KuCoin",
+              "pairs": [
+                  "WIN/USDT"
+              ]
+          }
+    ]
+}
+
+
+{
+      "address": "TGW6aRZwjeu62jRpdkXzcMobuzZyVdaBUf",
+      "symbol": "WIN",
+      "name": "WINkLink",
+      "decimals": 6,
+      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
+      "homepage": "https://tron.network/",
+      "MarketCapLink": "https://tron.network/static/doc/white_paper_v_2_0.pdf",
+      "existingMarkets": [
+          {
+              "source": "Binance",
+              "pairs": [
+                  "WIN/USDT",
+                  "WIN/BUSD",
+                  "WIN/BNB",
+                  "WIN/USDC"
+              ]
+          },
+          {
+              "source": "TRX",
+              "pairs": [
+                "WIN/USDT",
+                  "WIN/BUSD",
+                  "WIN/BNB",
+                  "WIN/USDC"
+          },
+          {
+              "source": "KuCoin",
+              "pairs": [
+                  "WIN/USDT"
+              ]
+          }
+    ]
+}
