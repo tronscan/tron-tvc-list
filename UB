@@ -1,0 +1,32 @@
+{
+      "address": "TEffKSNaXpHFzGQNbKqcnuySTUQptPgjPq",
+      "symbol": "UB",
+      "name": "UB",
+      "decimals": 6,
+      "logoURI": "https://static.tronscan.org/production/upload/logo/new/TEffKSNaXpHFzGQNbKqcnuySTUQptPgjPq.jpeg?t=1690924691794",
+      "homepage": "https://winklink.org/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "existingMarkets": [
+          {
+              "source": "Binance",
+              "pairs": [
+                  "UB/TRX",
+                  "UB/USDT",
+                  "UB/BNB",
+                  "UB/USDC"
+              ]
+          },
+          {
+              "source": "Poloniex",
+              "pairs": [
+                  "UB/USDT"
+              ]
+          },
+          {
+              "source": "KuCoin",
+              "pairs": [
+                  "UB/USDT"
+              ]
+          }
+    ]
+}
