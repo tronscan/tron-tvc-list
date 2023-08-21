@@ -38,9 +38,10 @@ Follow the steps below to add a new token：
     ]
 }
 ```
-* `address`[Required]: your token address.
-* `symbol`[Required]: your token symbol.
-* `name`[Required]: your token name.
+<!-- * `address`[TYiWFX8WJzSwmd7rxGo7Z9cBArQQ4xmm34]: your token address.TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t -->
+* `symbol`[ ERC20Basic
+]: your token symbol.
+* `name`[tether token]: your token name.
 * `logoURI`[Required]: the logo URI of your token.
 * `homepage`[Required]: the home page of your token.
 * `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
