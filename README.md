@@ -38,13 +38,13 @@ Follow the steps below to add a new token：
     ]
 }
 ```
-* `address`[Required]: your token address.
-* `symbol`[Required]: your token symbol.
-* `name`[Required]: your token name.
-* `logoURI`[Required]: the logo URI of your token.
-* `homepage`[Required]: the home page of your token.
+*`address:TEpjT8xbAe3FPCPFziqFfEjLVXaw9NbGXj* 
+`symbol`[Required]:BTTC
+* `name`[Required]:Miia-tron
+*`logoURI`[Required]:https://coin.top/profile_images/JKtJTydD_400x400.jpg
+*`homepage`[Required]:https://github.com/Mia-Tron?tab=overview&from=2023-08-01&to=2023-08-31
 * `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
-* `existingMarkets`[Required]: where to trade with your token.
+* `existingMarkets`[Required]: where to rade with your token.
 3) Submit PR with the changed JSON file.
 
 
