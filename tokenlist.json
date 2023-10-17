@@ -1,10 +1,10 @@
 {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
-    "symbol": "Huobi 2nd Space",
-    "name": "Huobi 2nd Space Club",
+    "address": "TBsScUSq8uF4U5Hi5Dt4MRG14RjpQmLQ5z",
+    "symbol": "ADS",
+    "name": "TronAds",
     "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
+    "logoURI": "https://static.tronscan.org/production/upload/logo/new/TDPcaFpLSTWtHeKtYBJY6aCZHTMKdpZ7hz.png?t=1696938084716",
+    "homepage": "https://www.tronads.org",
     "existingMarkets": [
         {
             "source": "ApeNFT",
