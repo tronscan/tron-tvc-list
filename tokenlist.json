@@ -15,3 +15,22 @@
         }
   ]
 }
+
+
+{
+    "address": "TRbrcsrTNuug5hAfum6kNQV7YjJzFzda8J",
+    "symbol": "HTX 4th Space",
+    "name": "HTX 4th Space Club",
+    "decimals": 6,
+    "logoURI": "http://app-hbg-prod-activity-mars-s3-repy.s3.amazonaws.com/htx_space4/logo.gif",
+    "homepage": "https://www.htx.com/",
+    "existingMarkets": [
+        {
+            "source": "ApeNFT",
+            "pairs": [
+                "HTX 4th Space/USDT",
+                "HTX 4th Space/TRX"
+            ]
+        }
+  ]
+}
