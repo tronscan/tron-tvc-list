@@ -1,4 +1,5 @@
-{
+[
+    {
     "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
     "symbol": "Huobi 2nd Space",
     "name": "Huobi 2nd Space Club",
@@ -13,5 +14,24 @@
                 "Huobi 2nd Space/TRX"
             ]
         }
-  ]
+      ]
+
+    },
+    {
+      "address": "TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3",
+      "symbol": "BRST",
+      "name": "Brutus Staking",
+      "decimals": 6,
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3.jpeg",
+      "homepage": "https://brutus.finance/",
+      "MarketCapLink": "https://dapp.brutus.finance/?brst",
+      "existingMarkets": [
+          
+          {
+              "source": "SunSwap",
+              "pairs": [
+                  "BRST/WTRX"
+              ]
+          }
+    ]
 }
