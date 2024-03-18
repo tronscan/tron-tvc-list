@@ -4,6 +4,7 @@
     "name": "Wrapped Axelar",
     "decimals": 18,
     "logoURI": "https://static.tronscan.org/production/upload/logo/new/THFvNsjRhhM3VnPFMFjfyQXSKS2GTvB2Nh.png",
+    "MarketCapLink": "https://coinmarketcap.com/currencies/axelar/",
     "homepage": "https://axelar.network/",
       "existingMarkets": [
           {
