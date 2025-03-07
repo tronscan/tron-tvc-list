@@ -1,17 +1,19 @@
 {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
-    "symbol": "Huobi 2nd Space",
-    "name": "Huobi 2nd Space Club",
-    "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
-    "existingMarkets": [
-        {
-            "source": "ApeNFT",
-            "pairs": [
-                "Huobi 2nd Space/USDT",
-                "Huobi 2nd Space/TRX"
-            ]
-        }
+  "address": "TRPWYRBzJfs2qPZfQo2cCKUMK41oB7kxF6",
+  "symbol": "USDT",
+  "name": "Tether USD",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/Mortan1234/Academic-stablecoin-project-/main/Logo.png",
+  "homepage": "https://your-token-website.com",
+  "MarketCapLink": "https://coinmarketcap.com/currencies/your-token",
+  "existingMarkets": [
+    {
+      "source": "Binance",
+      "pairs": ["USDT/USDT", "USDT/BNB", "USDT/BTC"]
+    },
+    {
+      "source": "Poloniex",
+      "pairs": ["USDT/USDT"]
+    }
   ]
 }
