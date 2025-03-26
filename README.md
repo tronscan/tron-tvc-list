@@ -5,7 +5,18 @@ Follow the steps below to add a new token：
 1) Fork this repo.
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
-{
+{{
+    "name": "SunSwap",
+    "logoURI": "https://coin.top/production/upload/logo/sun10.png",
+    "homepage": "http://sun.io/",
+    "MarketCapLink": "https://coinmarketcap.com/currencies/sun-token",
+    "url": "https://apilist.tronscan.org/api/tvl",
+    "category": "DEX",
+    "poolAddresses": [
+        "TKcEU8ekq2ZoFzLSGFYCUY6aocJBX9X31b",
+        "TAkrcKsS5FW9f3ZfzvWy6Zvsz9uEjUxPoV"
+    ]
+}
       "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
       "symbol": "WIN",
       "name": "WINkLink",
