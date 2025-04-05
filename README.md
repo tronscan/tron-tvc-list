@@ -1,4 +1,5 @@
-# Adding new token
+# Adding new token 10![Uploading 1000003149.jpg…]()
+
 The JSON schema for the tokens includes: address, name, decimals, symbol, logoURI, official homepage, MarketCap link, existing Markets.
 
 Follow the steps below to add a new token：
