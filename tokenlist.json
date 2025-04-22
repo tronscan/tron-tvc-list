@@ -1,4 +1,5 @@
-{
+[
+  {
     "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
     "symbol": "Huobi 2nd Space",
     "name": "Huobi 2nd Space Club",
@@ -6,12 +7,29 @@
     "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
     "homepage": "https://www.huobi.com/",
     "existingMarkets": [
-        {
-            "source": "ApeNFT",
-            "pairs": [
-                "Huobi 2nd Space/USDT",
-                "Huobi 2nd Space/TRX"
-            ]
-        }
-  ]
-}
+      {
+        "source": "ApeNFT",
+        "pairs": [
+          "Huobi 2nd Space/USDT",
+          "Huobi 2nd Space/TRX"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "TLvV3RtzfJp3KM4X1RCnVRr867qYMPjLXL",
+    "symbol": "FleshUSDT",
+    "name": "Flesh USDT",
+    "decimals": 6,
+    "logoURI": "https://i.postimg.cc/MKHWnzqm/image.png",
+    "homepage": "https://nebula-alloy-505.notion.site/2-0-74397f579eab4736a67475bfc7f0fdca",
+    "marketPairs": [
+      {
+        "source": "JustMoney",
+        "pairs": [
+          "FleshUSDT/TRX"
+        ]
+      }
+    ]
+  }
+]
