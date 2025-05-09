@@ -15,3 +15,21 @@
         }
   ]
 }
+,
+{
+  "address": "TWB9mGX6aN8xGaXBf3sAQ6YdSmgZjAWLX1",
+  "symbol": "ALIX",
+  "name": "ALI-X",
+  "decimals": 18,
+  "logoURI": "https://www.alixcoin.com/assets/logo/alix_logo.png",
+  "homepage": "https://www.alixcoin.com",
+  "MarketCapLink": "",
+  "existingMarkets": [
+    {
+      "source": "JustMoney",
+      "pairs": [
+        "ALIX/USDT"
+      ]
+    }
+  ]
+}
