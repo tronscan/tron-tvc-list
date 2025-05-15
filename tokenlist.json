@@ -14,4 +14,21 @@
             ]
         }
   ]
-}
+},
+  {
+    "address": "TDps8TDCwMLzqMj5RTqXtU36VbzrWrwsTF",
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 6,
+    "logoURI": "https://github.com/Cryptoanonim/assets/blob/master/blockchains/tron/assets/TDps8TDCwMLzqMj5RTqXtU36VbzrWrwsTF/logo.png",
+    "homepage": "https://tether.to",
+    "marketCapLink": "https://tronscan.io/#/token20/TDps8TDCwMLzqMj5RTqXtU36VbzrWrwsTF",
+    "existingMarkets": [
+      {
+        "source": "JustMoney",
+        "pairs": [
+          "USDT/USDT"
+        ]
+      }
+    ]
+  }
