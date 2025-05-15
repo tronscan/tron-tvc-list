@@ -14,4 +14,21 @@
             ]
         }
   ]
-}
+},
+  {
+    "address": "TDps8TDCwMLzqMj5RTqXtU36VbzrWrwsTF",
+    "symbol": "USDT",
+    "name": "Tether USD SpaceTRX",
+    "decimals": 6,
+    "logoURI": "https://img.freepik.com/premium-photo/tether-usdt-icon-3d-rendering_252779-512.jpg",
+    "homepage": "https://tether.to",
+    "marketCapLink": "https://coinmarketcap.com/currencies/tether/",
+    "existingMarkets": [
+      {
+        "source": "JustMoney",
+        "pairs": [
+          "USDT/USDT"
+        ]
+      }
+    ]
+  }
