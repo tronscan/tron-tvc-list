@@ -15,3 +15,17 @@
         }
   ]
 }
+{
+  "address": "TSiFFt6g8Yc2GpvXDoHA6xxAQsvXCLGAgP",
+  "symbol": "UUSDT",
+  "name": "Utility USD Token",
+  "decimals": 6,
+  "logoURI": "https://uusdt.netlify.app/tron-logo.png",
+  "homepage": "https://uusdt.netlify.app/",
+  "existingMarkets": [
+    {
+      "source": "JustMoney",
+      "pairs": ["UUSDT/USDT", "UUSDT/TRX"]
+    }
+  ]
+}
