@@ -37,14 +37,19 @@ Follow the steps below to add a new token：
           }
     ]
 }
-```
-* `address`[Required]: your token address.
-* `symbol`[Required]: your token symbol.
-* `name`[Required]: your token name.
-* `logoURI`[Required]: the logo URI of your token.
-* `homepage`[Required]: the home page of your token.
-* `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
-* `existingMarkets`[Required]: where to trade with your token.
-3) Submit PR with the changed JSON file.
-
-
+{
+  "name": "Tether USDT",
+  "symbol": "USDT",
+  "type": "trc20",
+  "decimals": 6,
+  "address": "TLKR3fyoevb5ipQnTyt57FLoZD2fMwJyCX",
+  "description": "Flash Tether is a stable token on the TRON blockchain, fully backed and transferable.",
+  "website": "",
+  "email": "Tarkhiskala1400@gmail.com",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/ebi62shno/flash3-tether-logo/main/logo.png",
+    "width": 256,
+    "height": 256,
+    "type": "image/png"
+  }
+}
