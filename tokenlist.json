@@ -1,17 +1,10 @@
 {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
-    "symbol": "Huobi 2nd Space",
-    "name": "Huobi 2nd Space Club",
-    "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
-    "existingMarkets": [
-        {
-            "source": "ApeNFT",
-            "pairs": [
-                "Huobi 2nd Space/USDT",
-                "Huobi 2nd Space/TRX"
-            ]
-        }
-  ]
+  "address": "TSCibL9AjPds78FNPSH24WxNFa77q5LjgQ",
+  "symbol": "BNEX",
+  "name": "Bingonex",
+  "decimals": 6,
+  "logoURI": "https://res.cloudinary.com/coinfactory/image/upload/v1740525393/ton/shsa8i16sxm9viuv1hpb.png",
+  "homepage": "https://bingonex.com",
+  "MarketCapLink": null,
+  "existingMarkets": []
 }
