@@ -1,4 +1,4 @@
-                    GNU GENERAL PUBLIC LICENSE
+tab                    GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -64,7 +64,7 @@ software on general-purpose computers, but in those that do, we wish to
 avoid the special danger that patents applied to a free program could
 make it effectively proprietary.  To prevent this, the GPL assures that
 patents cannot be used to render the program non-free.
-
+esc
   The precise terms and conditions for copying, distribution and
 modification follow.
 
@@ -617,7 +617,7 @@ reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
-
+tab
                      END OF TERMS AND CONDITIONS
 
             How to Apply These Terms to Your New Programs
