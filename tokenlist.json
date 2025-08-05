@@ -15,3 +15,13 @@
         }
   ]
 }
+{
+  "address": "TLNC9uH9sjVvTcW2deGRGFT3Bp5kcyGLZD",
+  "symbol": "Sanwaliya",
+  "name": "Shri Sanwaliya Seth",
+  "decimals": 6,
+  "logoURI": "https://shrisanwaliyaseth.com/logo-png",
+  "homepage": "https://shrisanwaliyaseth.com/",
+  "MarketCapLink": "https://tronscan.org/#/token20/TLNC9uH9sjVvTcW2deGRGFT3Bp5kcyGLZD",
+  "existingMarkets": []
+}
