@@ -6,36 +6,58 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
+      "address": "TKKt9vhwV961ZR92FPF3MJ3xzWeBmt9qUX",
+      "symbol": "USDT",
+      "name": "USDT/TRX",
       "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
+      "logoURI": "https://github.com/TRX-USDT-TRON/TRX20-TRON-/blob/main/5r8_zDRco8RuYLn6H-Blx1DsT46QMBPv9w.png",
+      "homepage": "https://github.com/TRX-USDT-TRON/TRX20-TRON-",
       "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
       "existingMarkets": [
-          {
-              "source": "Binance",
-              "pairs": [
-                  "WIN/USDT",
-                  "WIN/BUSD",
-                  "WIN/BNB",
-                  "WIN/USDC"
-              ]
-          },
-          {
-              "source": "Poloniex",
-              "pairs": [
-                  "WIN/USDT"
-              ]
-          },
-          {
-              "source": "KuCoin",
-              "pairs": [
-                  "WIN/USDT"
-              ]
-          }
+  {
+    "source": "Binance",
+    "pairs": [
+      "USDT/WIN",
+      "USDT/PEPE",
+      "USDT/TRX",
+      "USDT/BNB",
+      "USDT/ETH",
+      "USDT/BTC"
     ]
+  },
+  {
+    "source": "KuCoin",
+    "pairs": [
+      "USDT/WIN",
+      "USDT/PEPE",
+      "USDT/TRX"
+    ]
+  },
+  {
+    "source": "Poloniex",
+    "pairs": [
+      "USDT/WIN",
+      "USDT/TRX"
+    ]
+  },
+  {
+    "source": "OKX",
+    "pairs": [
+      "USDT/PEPE",
+      "USDT/TRX",
+      "USDT/ETH"
+    ]
+  },
+  {
+    "source": "Bybit",
+    "pairs": [
+      "USDT/PEPE",
+      "USDT/BNB",
+      "USDT/BTC"
+    ]
+  }
+]
+
 }
 ```
 * `address`[Required]: your token address.
