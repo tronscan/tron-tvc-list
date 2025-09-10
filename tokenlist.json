@@ -1,17 +1,25 @@
 {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
-    "symbol": "Huobi 2nd Space",
-    "name": "Huobi 2nd Space Club",
-    "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
-    "existingMarkets": [
-        {
-            "source": "ApeNFT",
-            "pairs": [
-                "Huobi 2nd Space/USDT",
-                "Huobi 2nd Space/TRX"
-            ]
-        }
+  "address": "TW6JguytiLxrGU9KrVgduoHRXauBaUkn3T",
+  "symbol": "Huobi 2nd Space",
+  "name": "Huobi 2nd Space Club",
+  "decimals": 6,
+  "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56820150-434a-45af-9ea3-b59c2f26c59b.png",
+  "homepage": "https://www.huobi.com/",
+  "existingMarkets": [
+    {
+      "source": "ApeNFT",
+      "pairs": [
+        "Huobi 2nd Space/USDT",
+        "Huobi 2nd Space/TRX"
+      ]
+    }
   ]
+},
+{
+  "address": "TA4hkHx4riMsc8mxjWscAT5KkJ7nkNMAM3",
+  "symbol": "ODT",
+  "name": "Orbit Dollar",
+  "decimals": 18,
+  "website": "https://stable-delia-98mfqm52.dcms.site/",
+  "explorer": "https://tronscan.org/#/token20/TA4hkHx4riMsc8mxjWscAT5KkJ7nkNMAM3"
 }
