@@ -14,4 +14,20 @@
             ]
         }
   ]
-}
+},
+    {
+      "address": "TWNe2kq9Xegq5QAWCRAACECEw14wmBdMix",
+      "symbol": "USDT",
+      "name": "USDTcoin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/mysa93/usdtcoin-whitepaper/refs/heads/main/logo.png",
+      "homepage": "https://www.nous.srl",
+      "MarketCapLink": "",
+      "existingMarkets": [],
+      "description": "USDTcoin - Drone technology for the nautical industry, developed by Nous Srl.",
+      "contact": {
+        "company": "Nous Srl",
+        "email": "donatospinelli68@gmail.com",
+        "website": "https://www.nous.srl"
+      }
+    }
