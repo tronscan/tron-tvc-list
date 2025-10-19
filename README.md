@@ -1,4 +1,4 @@
-# Adding new token
+# Adding new token ne olur bana yardım edin paraları mı geri transfer edin lütfen artık ben gerçekten yoruldum sizin bir vicdanınız vardır eminim ya çocuklarıma ekmek veremiyorum çocuklarıma para veremiyorum okula gidiyorlar
 The JSON schema for the tokens includes: address, name, decimals, symbol, logoURI, official homepage, MarketCap link, existing Markets.
 
 Follow the steps below to add a new token：
