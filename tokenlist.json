@@ -3,8 +3,8 @@
     "symbol": "Huobi 2nd Space",
     "name": "Huobi 2nd Space Club",
     "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
+    "logoURI": "https://raw.githubusercontent.com/txqz168/tron-tvc-list/main/DOOD.png",
+   "homepage": "https://www.huobi.com/",
     "existingMarkets": [
         {
             "source": "ApeNFT",
@@ -13,5 +13,23 @@
                 "Huobi 2nd Space/TRX"
             ]
         }
+  ]
+}，{
+  "address": "TNH6GDXmYQDDripcWhC7wZW4Kd4upva8s",
+  "name": "DOOD",
+  "symbol": "DOOD",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/txqz168/tron-tvc-list/main/images/dood.png",
+  "officialSite": "https://doodtoken.fun",
+  "email": "doodteam@proton.me",
+  "telegram": "https://t.me/doodtoken",
+  "twitter": "https://twitter.com/doodtoken",
+  "description": "DOOD is a decentralized community token on TRON. It maintains stable liquidity near 0.3 USDT through algorithmic range pools to ensure a fair and balanced market.",
+  "markets": [
+    {
+      "pair": "DOOD/USDT",
+      "exchange": "SunSwap V3",
+      "feeTier": "0.01%"
+    }
   ]
 }
