@@ -1,17 +1,17 @@
 {
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
-    "symbol": "Huobi 2nd Space",
-    "name": "Huobi 2nd Space Club",
-    "decimals": 6,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://www.huobi.com/",
-    "existingMarkets": [
-        {
-            "source": "ApeNFT",
-            "pairs": [
-                "Huobi 2nd Space/USDT",
-                "Huobi 2nd Space/TRX"
-            ]
-        }
+  "address": "TAFrAZDfp1K6Xn5pxsvq4fWCm4unDaLfYe",
+  "symbol": "ILY",
+  "name": "ILLYRIAN TOKEN",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/gugugaga123thc/tron-tvc-list/main/images/ILLYRIAN_TOKEN.png",
+  "homepage": "https://illyriantoken.com/",
+  "existingMarkets": [
+    {
+      "source": "SunSwap",
+      "pairs": [
+        "ILY/USDT",
+        "ILY/TRX"
+      ]
+    }
   ]
 }
