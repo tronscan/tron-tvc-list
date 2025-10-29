@@ -1,50 +1,52 @@
-# Adding new token
-The JSON schema for the tokens includes: address, name, decimals, symbol, logoURI, official homepage, MarketCap link, existing Markets.
+pragma solidity ^0.4.18;
 
-Follow the steps below to add a new token：
-1) Fork this repo.
-2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
-```
-{
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
-      "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
-      "existingMarkets": [
-          {
-              "source": "Binance",
-              "pairs": [
-                  "WIN/USDT",
-                  "WIN/BUSD",
-                  "WIN/BNB",
-                  "WIN/USDC"
-              ]
-          },
-          {
-              "source": "Poloniex",
-              "pairs": [
-                  "WIN/USDT"
-              ]
-          },
-          {
-              "source": "KuCoin",
-              "pairs": [
-                  "WIN/USDT"
-              ]
-          }
-    ]
+
+import './SafeMath.sol';
+
+/**
+ * @title ERC20Basic
+ * @dev Simpler version of ERC20 interface
+ * @dev see https://github.com/ethereum/EIPs/issues/179
+ */
+contract ERC20Basic {
+  function totalSupply() public constant returns (uint);
+  function balanceOf(address who) public view returns (uint256);
+  function transfer(address to, uint256 value) public returns (bool);
+  event Transfer(address indexed from, address indexed to, uint256 value);
 }
-```
-* `address`[Required]: your token address.
-* `symbol`[Required]: your token symbol.
-* `name`[Required]: your token name.
-* `logoURI`[Required]: the logo URI of your token.
-* `homepage`[Required]: the home page of your token.
-* `MarketCapLink`[Optional]: the coinmarketcap or coingecko link for your token.
-* `existingMarkets`[Required]: where to trade with your token.
-3) Submit PR with the changed JSON file.
 
+/**
+ * @title Basic token
+ * @dev Basic version of StandardToken, with no allowances.
+ */
+contract BasicToken is ERC20Basic {
+  using SafeMath for uint256;
 
+  mapping(address => uint256) balances;
+
+  /**
+  * @dev transfer token for a specified address
+  * @param _to The address to transfer to.
+  * @param _value The amount to be transferred.
+  */
+  function transfer(address _to, uint256 _value) public returns (bool) {
+    require(_to != address(0));
+    require(_value <= balances[msg.sender]);
+
+    // SafeMath.sub will throw if there is not enough balance.
+    balances[msg.sender] = balances[msg.sender].sub(_value);
+    balances[_to] = balances[_to].add(_value);
+    Transfer(msg.sender, _to, _value);
+    return true;
+  }
+
+  /**
+  * @dev Gets the balance of the specified address.
+  * @param _owner The address to query the the balance of.
+  * @return An uint256 representing the amount owned by the passed address.
+  */
+  function balanceOf(address _owner) public view returns (uint256 balance) {
+    return balances[_owner];
+  }
+
+}
