@@ -1,0 +1,24 @@
+{
+    "address": "TPDi5RCC9JTcvhfmjapRUyGi8BMuKAFuJi",
+    "symbol": "XBYT",
+    "name": "XBYT Token",
+    "decimals": 6,
+    "logoURI": "https://xbyt.org/uploads/site_logo_6907ac367731f.png",
+    "homepage": "https://xbyt.org",
+    "MarketCapLink": "",
+    "existingMarkets": [
+        {
+            "source": "TRONTrade",
+            "pairs": [
+                "XBYT/USDT",
+                "XBYT/TRX"
+            ]
+        },
+        {
+            "source": "JustSwap",
+            "pairs": [
+                "XBYT/TRX"
+            ]
+        }
+    ]
+}
