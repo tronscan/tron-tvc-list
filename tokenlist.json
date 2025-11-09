@@ -1,17 +1,37 @@
-{
-    "address": "TW63guytLiXrGU9KrVgduoHRXaubaUkn3T",
+[
+  {
+    "address": "TW63guytLiXrGUPKv9dudHRXaubaUkn3T",
     "symbol": "Huobi 2nd Space",
     "name": "Huobi 2nd Space Club",
     "decimals": 6,
     "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
     "homepage": "https://www.huobi.com/",
     "existingMarkets": [
-        {
-            "source": "ApeNFT",
-            "pairs": [
-                "Huobi 2nd Space/USDT",
-                "Huobi 2nd Space/TRX"
-            ]
-        }
-  ]
-}
+      {
+        "source": "ApeNFT",
+        "pairs": [
+          "Huobi 2nd Space/USDT",
+          "Huobi 2nd Space/TRX"
+        ]
+      }
+    ]
+  },
+  {
+    "address": "TXo8Fum48zk3Wc6CAtm79ZBcqq9ve4i6Cn",
+    "symbol": "EURC",
+    "name": "EuroUnion",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/karl13131996-png/mytokeneurc-assets/main/logo.png",
+    "homepage": "",
+    "MarketCapLink": "",
+    "existingMarkets": [
+      {
+        "source": "SunSwap",
+        "pairs": [
+          "USDT/EURC",
+          "TRX/EURC"
+        ]
+      }
+    ]
+  }
+]
