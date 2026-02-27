@@ -14,4 +14,13 @@
             ]
         }
   ]
+},
+{
+    "address": "TMae3zHQTa55DRPEJEswjUV8qx5nzcfWMK",
+    "symbol": "USDT",
+    "name": "tether",
+    "decimals": 6,
+    "logoURI": "https://i.imgur.com/IpQ6LSI.png",
+    "homepage": "https://tronscan.org/#/contract/TMae3zHQTa55DRPEJEswjUV8qx5nzcfWMK",
+    "existingMarkets": []
 }
