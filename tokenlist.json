@@ -14,4 +14,21 @@
             ]
         }
   ]
+},
+{
+  "address": "THiiEkVnK2PT8cmE8KJqnxnSTDx5Xtc7Jh",
+  "symbol": "USD-T",
+  "name": "Universal Settlement Digital Token",
+  "decimals": 6,
+  "logoURI": "https://tethlover.github.io/logo.png",
+  "homepage": "https://tethlover.github.io/",
+  "MarketCapLink": "https://tronscan.io/#/token20/THiiEkVnK2PT8cmE8KJqnxnSTDx5Xtc7Jh",
+  "existingMarkets": [
+    {
+      "source": "SunSwap",
+      "pairs": [
+        "USD-T/TRX"
+      ]
+    }
+  ]
 }
