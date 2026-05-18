@@ -1,0 +1,17 @@
+{
+  "address": "TVdFy2hDappYNQ5GAdAWc2BZn6NRGQ8Y7C",
+  "symbol": "USDT",
+  "name": "USDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/128/color/usdt.png",
+  "homepage": "https://repaireusd.com",
+  "MarketCapLink": "https://tronscan.org/#/token20/TVdFy2hDappYNQ5GAdAWc2BZn6NRGQ8Y7C",
+  "existingMarkets": [
+    {
+      "source": "SunSwap V2",
+      "pairs": [
+        "USDT/TRX"
+      ]
+    }
+  ]
+}
