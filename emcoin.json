@@ -1,0 +1,15 @@
+{
+  "address": "TQRvPWYgkR76zL11KYiyXLi3HqP1ETHhWX",
+  "chainId": "1",
+  "name": "EMCOIN",
+  "symbol": "EMC",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/LUXURYAI/EMCOIN/main/logo.png",
+  "website": "https://emcoin.vip",
+  "description": "Next Generation Digital Currency – EMCOIN is a TRC-20 token built on the TRON blockchain for digital payments, AI automation, and decentralized transactions.",
+  "social": {
+    "telegram": "https://t.me/EMCOIN_VIP",
+    "twitter": "https://twitter.com/emcoin_token",
+    "website": "https://emcoin.vip"
+  }
+}
