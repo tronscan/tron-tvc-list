@@ -13,5 +13,14 @@
                 "Huobi 2nd Space/TRX"
             ]
         }
-  ]
+    ]
+},
+{
+    "address": "TLCboeGME33JQWA6tvMpeNWY3chtmAiDnJ",
+    "symbol": "USDT",
+    "name": "USDT",
+    "decimals": 6,
+    "logoURI": "https://static.tronscan.org/production/logo/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t.png",
+    "homepage": "https://example.com",
+    "existingMarkets": []
 }
