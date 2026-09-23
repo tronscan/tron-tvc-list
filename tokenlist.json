@@ -21,22 +21,6 @@
         {
             "name": "telegram",
             "url": "https://t.me/tronnetworkEN"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/tron-foundation"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/hqKvyAM"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Tronix/"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/tronfoundation"
         }
     ],
     "tags": [
